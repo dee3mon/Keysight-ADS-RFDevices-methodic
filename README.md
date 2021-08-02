@@ -1,2 +1,12 @@
-# Keysight-ADS-RFDevices-methodic
- 
+# Keysight-ADS-Microstrip-methodic
+Keysight ADS Materials Microstrip
+Methodic materials for modeling microstrip devices using Keysight ADS
+
+Сборник методических материалов (лабников) по расчету, моделированию и проектированию полосковых устройств с использованием САПР Keysight ADS.
+
+Используется в курсе "Моделирование антенно-фидерных устройств в среде Advanced Design System", читаемом студентам третьего курса бакалавриата [МИЭТ](https://miet.ru/) по направлению "Радиотехника"
+
+
+Автор материалов [Приходько Дмитрий Владимирович](mailto:dee@org.miet.ru)
+
+Материалы доступны по лицензии [Creative Commons Attribution (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
